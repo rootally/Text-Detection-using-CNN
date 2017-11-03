@@ -22,6 +22,7 @@ python ./ctpn/demo.py
 # roadmap
  - Resnet architecture to improve accruacy
  - Understanding the text
+ - Trying various hyperparameters for the anchor size to improve accuracy
 # Results
 
 <img src="/data/results/noor-meat-shop-kolkata-0.jpg" width=500 height=340 />

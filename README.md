@@ -11,7 +11,7 @@ Then in this feature map to do sliding window, the window size is 3 × 3. That i
 - This is a text proposal that gets intensive predictions, so a standard non-maximal suppression algorithm is used to filter out redundant boxes.
 - Finally, we use the graph-based text line construction algorithm to merge the obtained text segments into text lines.
 
-<img src="/data/results/algo.jpg" width=320 height=240 />
+<img src="algo.jpg" width=800 height=340 />
 
 I trained the model on COCO-text Dataset containing 63,686 images and MSRA-TD500 dataset on Xeon Clusters to which i got access as being Student ambassador of Intel nervana academy.
 

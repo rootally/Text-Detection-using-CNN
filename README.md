@@ -1,4 +1,4 @@
-# Text-Detection-using-CNN
+# Text-Detection in natural Scenes-using-CNN
 
 This model is inspired from the paper https://arxiv.org/pdf/1609.03605.pdf.
 
@@ -19,6 +19,9 @@ To test the model put your images in data/demo, the results will be saved in dat
 ```shell
 python ./ctpn/demo.py
 ```
-  # Results
+# roadmap
+ - Resnet architecture to improve accruacy
+ - Understanding the text
+# Results
 
 <img src="/data/results/noor-meat-shop-kolkata-0.jpg" width=500 height=340 />
